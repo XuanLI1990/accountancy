@@ -1,0 +1,49 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "accountancy",
+    "packageName": "com.idmgroup.com",
+    "packageFolder": "com/idmgroup/com",
+    "serverPort": 8082,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "zh-cn",
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.4.1",
+    "jwtSecretKey": "ZmYyZWE2M2E3ZTMyNjUxMTY4NTEwYzkzZTE4NDhhMmRlYThiMTMyYjIzOTMxNWQ5YTNlMTc0NDczZGI5NzY4ZWNhZTg3NjkzYmM5YzcxODdkMTZkOTI5M2VlOWNiMjBkZmI3YzcyNGZiYzE4ZjZjMjNlNmE2YjgyMTg5ZDk1N2M=",
+    "embeddableLaunchScript": false,
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "XuanLI1990",
+  "repository-name": "accountancy"
+}
